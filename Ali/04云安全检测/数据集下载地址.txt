@@ -1,0 +1,5 @@
+由于本赛题数据集太大，请登录官方网站直接下载，速度更快。你可能需要注册和登陆阿里云账号。
+本赛题需要使用到以下三个文件，请下载后解压放在dataset文件夹中。
+这三个文件是security_submit.csv、security_test.csv、security_train.csv
+数据下载地址：https://tianchi.aliyun.com/competition/entrance/231694/information
+
